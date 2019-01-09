@@ -1,5 +1,5 @@
 body {
-    background-color: lemonchiffon;
+    background-color: gray;
     align-items: center;
 }
 p {
@@ -8,8 +8,8 @@ p {
     border-color: black;
     width: 75%;
     font-size: 35px;
-    color: black;
-    background-color: plum;
+    color: white;
+    background-color: black;
 }
 .menu {
     font-size: 35px;
@@ -20,5 +20,5 @@ h1 {
 h2 {
     font-size: 45px;
     font-style: italic;
-    color: crimson;
+    color: black;
 }
