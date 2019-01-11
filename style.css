@@ -22,3 +22,9 @@ h2 {
     font-style: italic;
     color: black;
 }
+
+img, video {
+    padding: 10px;
+    border-color:blue;
+    border-style: double;
+}
