@@ -1,11 +1,8 @@
 body {
     background-color: gray;
-    align-items: center;
 }
 p {
     padding: 20px;
-    border: 2px;
-    border-color: black;
     width: 75%;
     font-size: 35px;
     color: white;
@@ -22,9 +19,9 @@ h2 {
     font-style: italic;
     color: black;
 }
-
 img, video {
     padding: 10px;
-    border-color:blue;
-    border-style: double;
+    border-color: darkblue;
+    border-style: ridge;
+    border-width: 5px;
 }
