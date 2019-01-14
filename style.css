@@ -1,21 +1,30 @@
 body {
     background-color: gray;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: solid;
+    border-color: black;
+    width: 90%;
+    margin: 20px auto;
 }
 p {
-    padding: 20px;
+    margin: 25px auto;
     width: 75%;
-    font-size: 35px;
+    padding: 20px;
+    font-size: 20px;
     color: white;
     background-color: black;
 }
-.menu {
-    font-size: 35px;
+ul {
+    font-size: 25px;
+    margin: 25px auto;
+    list-style-type: none;
 }
 h1 {
-    font-size: 60px;
+    font-size: 50px;
 }
 h2 {
-    font-size: 45px;
+    font-size: 40px;
     font-style: italic;
     color: black;
 }
